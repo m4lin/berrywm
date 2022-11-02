@@ -1,0 +1,48 @@
+#!/bin/bash
+
+tint2 &
+octoxbps-notifier &
+qtfm-tray &
+qlipper &
+xfce4-power-manager &
+volumeicon &
+#lxqt-powermanagement &
+#qasmixer &
+#daemons
+emacs --daemon &
+notify-send "Welcome to Barry" &
+notify-send "Hit Win+Shift+Q to exit Berry" &
+#qterminal -d -e htop &
+tilda -c htop &
+feh --bg-fill themes/void.png &
+setxkbmap it &
+dunst &
+picom &
+mpd --no-daemon /home/marco/.config/mpd/mpd.conf &
+
+
+
+# Set decoration geometry
+
+berryc border_width   0
+berryc inner_border_width  4
+cberryc title_height   18
+
+#berryc top_gap    22
+
+berryc edge_gap    38 20 10 10
+
+# Set decoration colors
+
+berryc focus_color    ff79c6
+berryc unfocus_color   bd93f9
+berryc inner_focus_color bd93f9
+berryc inner_unfocus_color  ff79c6
+berryc text_focus_color  ff5555
+berryc text_unfocus_color  44475a
+
+# Other options
+berryc smart_place "true"
+berryc draw_text   "true"
+berryc edge_lock   "false"
+berryc set_font    "Dina-9"
