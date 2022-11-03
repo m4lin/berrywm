@@ -10,6 +10,29 @@ All instructions can be found at [draculatheme.com/foobar](https://draculatheme.
 
 Script biteme.sh to try the theme on the fly ... a bat's fly.
 
+If you like it follow installation instruction.
+
+Do not forget to make also other pieces of your berry home dracula style, in the screenshot:
+
+tilix terminal --> dracula link
+tint2 bar --> dracula link
+QT5 for QT apps --dracula link
+GTK for GTK apps + icons --> dracula link
+zsh shell --> dracula link
+ufetch --> link github
+and many more
+
+midnight commander
+notepadqq
+ranger
+DoomEmacs
+dunst
+firefox
+rofi
+
+....
+
+
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
