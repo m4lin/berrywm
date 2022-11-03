@@ -1,6 +1,6 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [BerryWM](https://foobar.com)
 
-> A dark theme for [Foobar](https://foobar.com). add here
+> A dark theme for [BerryWM](https://foobar.com). 
 
 ![Screenshot](./screenshot.png)
 
@@ -24,4 +24,4 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./LICENSE)ICENSE)
