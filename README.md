@@ -1,4 +1,4 @@
-# Dracula for [BerryWM](https://berrywm.org/)
+#0;276;0c# Dracula for [BerryWM](https://berrywm.org/)
 
 > A dark theme for [BerryWM](https://berrywm.org/).
 
@@ -15,19 +15,33 @@ If you like it follow installation instruction.
 Do not forget to make also other pieces of your berry home dracula style, in the screenshot:
 
 tilix terminal --> dracula link
+
 tint2 bar --> dracula link
+
 QT5 for QT apps --dracula link
+
 GTK for GTK apps + icons --> dracula link
+
 zsh shell --> dracula link
+
 ufetch --> link github
+
+wallpaper --> dracula lin
+
 and many more
 
 midnight commander
+
 notepadqq
+
 ranger
+
 DoomEmacs
+
 dunst
+
 firefox
+
 rofi
 
 ....
