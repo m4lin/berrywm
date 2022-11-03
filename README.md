@@ -8,6 +8,8 @@
 
 All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
 
+Script biteme.sh to try the theme on the fly ... a bat's fly.
+
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
