@@ -1,20 +1,20 @@
-# Dracula for [BerryWM](https://foobar.com)
+# Dracula for [BerryWM](https://berrywm.org/)
 
-> A dark theme for [BerryWM](https://foobar.com). 
+> A dark theme for [BerryWM](https://berrywm.org/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-MMAll instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+| [![M4lin](https://github.com/m4lin.png?size=100)](https://github.com/m4lin) |
 | ---------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               |
+| [M4lin](https://github.com/m4lin)                                               |
 
 ## Community
 
