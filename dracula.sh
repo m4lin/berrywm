@@ -1,9 +1,0 @@
-#/bin/bash
-
-berryc focus_color    ff79c6
-berryc unfocus_color   bd93f9
-berryc inner_focus_color bd93f9
-berryc inner_unfocus_color  ff79c6
-berryc text_focus_color  ff5555
-berryc text_unfocus_color  44475a
-berryc focus_follows_pointer true

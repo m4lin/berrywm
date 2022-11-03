@@ -12,6 +12,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/foobar/arch
 
 #### Activating theme
 
-1. Do this
-2. Then that
+1. login in your boring berrywm and run the biteme.sh script and enjoy the dark side
+2. if you like it copy the section colors in your autostart configuration file (usually locate in /home/yourhome/.config/berry/autostart
 3. Boom! It's working
