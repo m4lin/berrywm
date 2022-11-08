@@ -4,7 +4,7 @@
 
 ![Screenshot](./screenshot.png)
 
-## Install TEST
+## Install
 
 All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
 
