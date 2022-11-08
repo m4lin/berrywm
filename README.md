@@ -1,4 +1,4 @@
-#0;276;0c# Dracula for [BerryWM](https://berrywm.org/)
+## Dracula for [BerryWM](https://berrywm.org/)
 
 > A dark theme for [BerryWM](https://berrywm.org/).
 
